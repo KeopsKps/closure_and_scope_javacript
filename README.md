@@ -1,2 +1,3 @@
-# closure_and_scope_javacript
+# Learning closure and scope in Javascript
+
 This repo is part of my learning path of Javascript
